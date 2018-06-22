@@ -1,0 +1,26 @@
+{
+  "name": "web-sockets",
+  "version": "1.0.0",
+  "description": "A simple web sockets project",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ljiljan/web-sockets.git"
+  },
+  "keywords": [
+    "web-sockets",
+    "sockets",
+    "javascript",
+    "node",
+    "express"
+  ],
+  "author": "F. Gogic",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ljiljan/web-sockets/issues"
+  },
+  "homepage": "https://github.com/Ljiljan/web-sockets#readme"
+}
