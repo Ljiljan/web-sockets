@@ -12,5 +12,5 @@ app.use(express.static('html'));
 let sock = socket(serv);
 
 sock.on('connection', (socket) => {
-    console.log('Socket connection executed');
-})
+    console.log('Socket connection executed', socket.id);
+});
