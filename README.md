@@ -8,3 +8,4 @@ A web sockets project for my website
 * Setup Express
 * Added Bootstrap styles
 * Added Socket.io
+* Setup Socket.io connection
