@@ -22,5 +22,8 @@
   "bugs": {
     "url": "https://github.com/Ljiljan/web-sockets/issues"
   },
-  "homepage": "https://github.com/Ljiljan/web-sockets#readme"
+  "homepage": "https://github.com/Ljiljan/web-sockets#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
 }
